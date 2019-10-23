@@ -1,0 +1,1 @@
+# docker_squid4
